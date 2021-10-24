@@ -1,0 +1,43 @@
+
+Introduction to Software Engineering, Survey 2
+
+Please fill out this survey by placing appropriate answers inside the bracket pairs and then send it to mgeraldson@gmail.com. 
+
+In Question 1, make sure the Registration No. of each team member is written correctly, e.g., "abc123".
+
+-----------------------------------------------------------------------------------------
+
+Your name:  [ ]
+Your Registration No: [ ]
+Project:    [ ]
+
+Question 1
+
+The aim of this question is to identify students who make extra special contributions to the project and to ensure that everybody plays a significant part.
+	
+Since the completion of Assignment 1 your team should have been working towards Assignment 2, the first presentation and the progress report. The work will have included team coordination, meetings with the client, technical work, preparing the presentation, writing the report, etc.
+	
+Against each person's Registration No, estimate (to the nearest integer) what percentage of the total effort that person contributed. If, for example, you estimate that one member of your team did a quarter of the work for this task, then write 25 (no percent sign) in the pair of brackets against "percentage of work:". The total percentages should add up to 100.
+
+1- Registration No: [ ], percentage of work: [ ]
+2- Registration No: [ ], percentage of work: [ ]
+3- Registration No: [ ], percentage of work: [ ]
+4- Registration No: [ ], percentage of work: [ ]
+5- Registration No: [ ], percentage of work: [ ]
+6- Registration No: [ ], percentage of work: [ ]
+7- Registration No: [ ], percentage of work: [ ]
+8- Registration No: [ ], percentage of work: [ ]
+
+Question 2
+
+The purpose of this question is to provide visibility on the progress to the course team. Write your personal summary of how you feel about the project to date, not more than 100 words. What has gone well? What problems do you see?
+
+[
+
+
+
+                                                                                       ]
+
+
+-----------------------------------------------------------------------------------------
+                                                                       
