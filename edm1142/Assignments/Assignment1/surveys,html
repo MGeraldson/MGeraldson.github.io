@@ -1,0 +1,48 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Introduction to Software Engineering: Quizzes</title>
+<link href="cs5150.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+
+
+<hr/>
+
+<p class="title">Introduction<br/>
+Software Engineering<br/>
+Fall 2013</p>
+    
+<p class="title">Surveys</p>
+
+<hr/>
+
+<table width="100%">
+<tr>
+
+<td width="2%">&nbsp;</td>
+
+<td width="78%" valign="top">      
+<p class="subtitle">Surveys</p>
+      <p>With each group assignment there is a survey to be completed individually. It is important that everybody completes each survey and submits it on time. The course team uses the surveys to monitor the progress of the projects, to understand the contributions made by each member of the team, and to gather feedback about the course.</p>
+	  <ul>
+	  <li> <a href="Survey1.txt">Survey 1</a>, due Friday November 14 at 11 p.m.</li>
+	  <li> <a href="Survey2.txt">Survey 2</a>, due Friday November 30 at 11 p.m.</li>
+	  <li> <a href="Survey3.txt">Survey 3</a>, due Friday December 14 at 11 p.m.</li>
+	  <li> <a href="Survey4.txt">Survey 4</a>, due Monday December 30 at 11 p.m.</li>
+	  </ul>
+	  <p>Please follow the submission instructions exactly.</p>
+	  <p>If you have problems completing the surveys, or find bugs in the web forms, please send email to the course team. </p>
+	</td>
+</tr>
+</table>
+<hr/>
+
+<hr/>
+
+
+</body>
+</html>
